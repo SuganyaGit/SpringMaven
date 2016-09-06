@@ -1,0 +1,25 @@
+# SpringMaven
+
+Tuesday, ‎August ‎30, ‎2016
+1.	Spring core - Spring helloworld,DI using property and constructor, AutoWiring beans using xml and annotation - completed
+2.	Used jars: spring-core, spring-context
+3.	URL: http://websystique.com/
+__________________________________________________________________________________
+
+‎Wednesday, ‎August ‎31, ‎2016
+1.	read property file values - annotation based(@value, @PropertySource,spring Environment(for reading property file))  - Used jars: spring-core, spring-context
+
+_________________________________________________________________________________
+
+Thursday, ‎September ‎01, ‎2016
+1.	Spring profiles - @Profile(for dev,prod env) - Used jars: spring-core, spring-context, spring-orm, URL:http://websystique.com/spring/spring-profile-example
+2.	Spring AOP- Advice,pointcut,advisor 
+	 url:http://www.mkyong.com/spring/spring-aop-example-pointcut-advisor/ 
+	used jars: spring,cglib
+	
+__________________________________________________________________________________
+Friday, September 02, 2016
+1.	Spring logging interceptor, adding more than one interceptor
+__________________________________________________________________________________
+
+
